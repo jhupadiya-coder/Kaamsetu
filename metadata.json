@@ -1,0 +1,6 @@
+{
+  "name": "KaamSetu - Your Skills. Your Opportunities.",
+  "description": "A modern, premium marketplace and opportunity bridge connecting freelancers, job seekers, students, and businesses across India and globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
